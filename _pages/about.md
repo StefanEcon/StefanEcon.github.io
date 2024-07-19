@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Department of Economics, <a href='#'>Washington Univeristy in Saint Louis</a>.
+subtitle: 
 
 profile:
   align: right
