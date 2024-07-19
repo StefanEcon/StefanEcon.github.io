@@ -9,7 +9,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p> Harry and Susan Seigle Hall 373 </p>
+    <p> Harry and Susan Seigle Hall Office: 373 </p>
     <p>One Brookings Drive </p>
     <p>Saint Louis, MO 63105</p>
 ---
