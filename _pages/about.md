@@ -7,7 +7,7 @@ subtitle: Department of Economics, <a href='#'>Washington Univeristy in Saint Lo
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   more_info: >
     <p> Harry and Susan Seigle Hall Office: 373 </p>
     <p>One Brookings Drive </p>
