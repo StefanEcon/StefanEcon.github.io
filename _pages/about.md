@@ -16,5 +16,5 @@ profile:
 
 Hello, I am Yingrui (Stefan) Song from Washington University in Saint Louis. I am now a third-year Ph.D. candidate in Economics.
 
-My main research interest lies in macro development and growth, with specific focus on firm dynamics and structural change. Specifically, I am recently exploring how information friction and non-rational belief could result in misallocation of resources among firms and lead to aggregate TFP losses. 
+My main research interest lies in macro development and growth, with specific focus on firm dynamics and structural change. I am recently exploring how information friction and non-rational belief could result in misallocation of resources among firms and lead to aggregate TFP losses. 
 
