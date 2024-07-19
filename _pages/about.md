@@ -12,11 +12,7 @@ profile:
     <p> Harry and Susan Seigle Hall 373 </p>
     <p>One Brookings Drive </p>
     <p>Saint Louis, MO 63105</p>
-
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
 ---
 
 Hello, I am Yingrui Song from Washington University in Saint Louis. My main research interest are now in firm dynamics and structural change. Specifically, I am recently exploring how information friction and non-rational belief could result in misallocation among firms and lead to TFP losses across the economy. 
 
-You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
