@@ -14,7 +14,7 @@ profile:
     <p>Saint Louis, MO 63105</p>
 ---
 
-Hello, I am Yingrui Song from Washington University in Saint Louis. 
+Hello, I am Yingrui Song from Washington University in Saint Louis. I am now a third-year Ph.D. candidate in Economics.
 
-My main research interest are now in firm dynamics and structural change. Specifically, I am recently exploring how information friction and non-rational belief could result in misallocation of resources among firms and lead to aggregate TFP losses across the economy. 
+My main research interest lie in macro development, with specific interest in firm dynamics and structural change. Specifically, I am recently exploring how information friction and non-rational belief could result in misallocation of resources among firms and lead to aggregate TFP losses across the economy. 
 
