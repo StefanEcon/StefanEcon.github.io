@@ -13,22 +13,7 @@
       "countryCode": "US",
       "region": "Missouri"
     },
-    "profiles": [
-      {
-      #
-      }
-    ]
   },
-  "work": [
-    {
-      #
-    }
-  ],
-  "volunteer": [
-    {
-      #
-    }
-  ],
   "education": [
     {
       "institution": "Wuhan University, Wuhan, China",
@@ -36,11 +21,6 @@
       "area": "B.A. in Economics and B.S. in Applied Mathematics",
       "startDate": "09/01/2018",
       "endDate": "06/01/2022",
-    }
-  ],
-  "awards": [
-    {
-      #
     }
   ],
   "certificates": [
